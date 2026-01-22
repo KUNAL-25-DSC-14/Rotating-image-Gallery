@@ -5,7 +5,7 @@ It uses CSS perspective and rotateY() transformations to create a smooth 3D rota
 
 🚀 Live Demo
 
-👉 View Project:
+👉 site is live at https://kunal-25-dsc-14.github.io/Rotating-image-Gallery/
 
 🛠️ Technologies Used
 
